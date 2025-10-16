@@ -21,3 +21,5 @@ add_deep_ep_library(internode_ll_cuda internode_ll.cu)
 set(EP_CUDA_LIBRARIES runtime_cuda layout_cuda intranode_cuda internode_cuda internode_ll_cuda PARENT_SCOPE)
 
 # Update: 2025-10-14
+
+# Update: 2025-10-16
